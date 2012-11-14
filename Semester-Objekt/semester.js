@@ -37,7 +37,7 @@ var mein_semester = {
     workload:90
 	},
    {
-	title:"?sthetik der Globalisierung",
+	title:"Aesthetik der Globalisierung",
 	sws:2,
 	credits:2,
     workload:90
